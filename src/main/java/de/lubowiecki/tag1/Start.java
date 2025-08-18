@@ -28,6 +28,7 @@ public class Start {
         // FIXME: Problem beseitigen...
         //System.out.println("Das ist das Haus von Nikigraus!"); // sout
 
+        //...
         int anzahlFahrzeuge = 100; // Variable
         //JOptionPane.showMessageDialog(null, "Das ist ein Text");
     }
