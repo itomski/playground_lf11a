@@ -15,20 +15,20 @@ public class Start {
 
     // kebap-case: Wird in Java NICHT verwendet
 
+    // Attribute
     private int anzahlPersonen = 10; // Attribut
 
     private final String TEXT = "Hallo"; // Konstante, kann später nicht verändert werden
     private final String ANDERER_TEXT = "..."; // Konstante
 
+    // Einstiegspunkt
     public static void main(String[] args) { // Methode
 
-        // TODO: Problem beseitigen
-        // FIXME: dksahdhskdsah
-        //System.out.pri_ntln("Das ist das Haus von Nikigraus!"); // sout
+        // TODO: Aufgabe erledigen...
+        // FIXME: Problem beseitigen...
+        //System.out.println("Das ist das Haus von Nikigraus!"); // sout
 
         int anzahlFahrzeuge = 100; // Variable
-
         //JOptionPane.showMessageDialog(null, "Das ist ein Text");
-
     }
 }
