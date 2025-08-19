@@ -1,5 +1,7 @@
 package de.lubowiecki.tag2;
 
+import java.util.Random;
+
 public class ObjektVsStaticTest {
 
     public static void main(String[] args) {
@@ -13,6 +15,5 @@ public class ObjektVsStaticTest {
         // Klassen = Baupläne
         Verwaltung.sagHallo();
         Verwaltung.sagHallo("Hi", "Steve");
-
     }
 }
