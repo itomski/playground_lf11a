@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buchungen>
+
+    <buchung id="1234">
+        <kunde>Peter Parker</kunde>
+        <fahrzeug>
+            <kennzeichen>HH-AB123</kennzeichen>
+            <marke>Ford</marke>
+        </fahrzeug>
+    </buchung>
+
+    <buchung id="1235">
+        <kunde>Peter Banner</kunde>
+        <fahrzeug>
+            <kennzeichen>HH-XY224</kennzeichen>
+            <marke>Fiat</marke>
+        </fahrzeug>
+    </buchung>
+
+</buchungen>

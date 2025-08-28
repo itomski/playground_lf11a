@@ -1,0 +1,18 @@
+{
+  "buchungen": [
+    {
+      "kunde": "Peter Parker",
+      "fahrzeug": {
+        "kennzeichen": "HH-AB123",
+        "marke": "Ford"
+      }
+    },
+    {
+      "kunde": "Bruce Banner",
+      "fahrzeug": {
+        "kennzeichen": "HH-XY224",
+        "marke": "Fiat"
+      }
+    }
+  ]
+}
