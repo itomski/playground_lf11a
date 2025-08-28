@@ -11,7 +11,7 @@ public class ReadJson {
 
     public static void main(String[] args) {
 
-        final String FILE_NAME = "config.json";
+        final String FILE_NAME = "config1.json";
 
         // Wenn die Datei im Benutzerordner liegt
         // final String FILE_NAME = System.getProperty("user.home") + "/config.json";

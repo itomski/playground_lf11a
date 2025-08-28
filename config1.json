@@ -1,6 +1,5 @@
-{
-  "personen": [
-    {
+[
+  {
       "vorname": "Peter",
       "nachname": "Parker"
     },
@@ -11,5 +10,5 @@
     {
       "vorname": "Carol",
       "nachname": "Danvers"
-    }]
-  }
+    }
+]
