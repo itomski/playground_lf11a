@@ -31,6 +31,5 @@ public class ConfigReadTest {
         System.out.println(props.getProperty("db.password"));
         System.out.println(props.getProperty("db.driver", "default"));
 
-
     }
 }
